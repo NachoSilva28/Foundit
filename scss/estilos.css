@@ -1,0 +1,50 @@
+header {
+  background-color: rgb(255, 255, 255);
+  margin: 0;
+  padding: 1%;
+  top: 0;
+  z-index: 1;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-image: url(../img/18220884_v1016-b-09.jpg);
+}
+
+header nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex: 1;
+}
+
+header nav ul li a {
+  display: inline-block;
+  list-style: none;
+  padding: 10px;
+  font-size: 23px;
+  text-decoration: none;
+  color: rgb(81, 82, 73);
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+header h1 {
+  color: rgb(124, 126, 114);
+  font-size: 60px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  text-decoration: none;
+}
+
+h1 {
+  text-decoration: none;
+}
+
+.d-block {
+  width: 100px;
+}
+
+.os {
+  display: inline-block;
+  justify-content: center;
+  text-align: center;
+}/*# sourceMappingURL=estilos.css.map */
